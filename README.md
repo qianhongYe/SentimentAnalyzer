@@ -46,21 +46,20 @@ import json
 
 
 
-3. Put the following folder or files to current directory, which you could find in Amazon Driver ...
+3. Put the following folder or files to current directory (one folder and 6 files), which you could find with shared link ...
 
-score_file
+score_file (this is a folder containing 9 files)
+https://www.amazon.de/clouddrive/share/h6zmlyUyONBw42LCBL8syBVtVktzzXEWdiViAcP5sSX
 docs_length.csv
+https://www.amazon.de/clouddrive/share/Zpw5h4gMuVcFvhTwqocSDuiJtekGofe3irGQqhL5Msa
 person_birthdate.json
+https://www.amazon.de/clouddrive/share/p0Iwcf2iC5E4vcLoP9DFeWVU7VM4Qk5VwMzUPVOTyNJ
 event_date.json
+https://www.amazon.de/clouddrive/share/i5Ck9mISpaY8JKcRNG7BRQDVKqvDRNXCipAzJDZctQE
 title_geo_country_continent.csv
+https://www.amazon.de/clouddrive/share/CajMzqgDnDzGhOfTUtjnFsr0PPhQy4x9TM3ucesUHo4
 eventList.json
+https://www.amazon.de/clouddrive/share/Lu5u88c2yY0yJTEIcO6z9d9t04jP6es5gN9uuiTPFCU
 PersonList.json
-
-
-
-
-
-
-
-
+https://www.amazon.de/clouddrive/share/g7mqVbbOoWhIARfGWOWQ8Vg0486Juitfrh7WgFMLhiM
 
