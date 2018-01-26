@@ -2,5 +2,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - matplotlib
   - pip:
     - s3fs
