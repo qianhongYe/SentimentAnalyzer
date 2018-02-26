@@ -5,3 +5,4 @@ ipywidgets==7.0.1
 matplotlib==2.0.2
 s3fs
 boto
+quilt
