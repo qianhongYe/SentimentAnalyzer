@@ -1,8 +1,9 @@
-pandas==0.16.2
 geopandas==0.3.0
 folium==0.5.0
 ipywidgets==7.0.1
 matplotlib==2.0.2
+pandas
 s3fs
 boto
 quilt
+
