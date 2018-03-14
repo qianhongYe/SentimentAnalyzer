@@ -3,63 +3,7 @@ A framework to visualize the sentiment distribution of wikipedia articles.
 
 Open geomap.ipynb with Jupyter Notebook to run this framework.
 
-Notes:
+We already put this framework to mybinder.org which you can visit by the following url:
+https://mybinder.org/v2/gh/qianhongYe/SentimentAnalyzer/master
 
-1. Use command as below in terminal to open notebook, in order to avoid out of io_limit.
-jupyter notebook --NotebookApp.iopub_data_rate_limit=2147483647
-
-2. Involved library
-
-Here are some involved libraries...
-
-matplotlib
-shapely.geometry
-pandas
-geopandas
-ipywidgets
-Ipython.display
-folium
-datetime
-dateutil
-traitlets
-json
-
-
-You might need to install some of them if you meet any error like "There is no module ..." while you do the following import. These import are in the front of geomap.ipynb
-
-import matplotlib as mpl
-import matplotlib.pyplot as plt
-from shapely.geometry import Point
-import pandas as pd
-import geopandas as gpd
-from geopandas import GeoSeries, GeoDataFrame
-from ipywidgets import widgets 
-from ipywidgets import *  
-from IPython.display import display,clear_output
-from ipywidgets import Layout
-import folium
-from datetime import datetime
-from datetime import date
-from dateutil import rrule
-from traitlets import directional_link
-import json
-
-
-
-3. Put the following folder or files to current directory (one folder and 6 files), which you could find with shared link ...
-
-score_file (this is a folder containing 9 files)
-https://www.amazon.de/clouddrive/share/h6zmlyUyONBw42LCBL8syBVtVktzzXEWdiViAcP5sSX
-docs_length.csv
-https://www.amazon.de/clouddrive/share/Zpw5h4gMuVcFvhTwqocSDuiJtekGofe3irGQqhL5Msa
-person_birthdate.json
-https://www.amazon.de/clouddrive/share/p0Iwcf2iC5E4vcLoP9DFeWVU7VM4Qk5VwMzUPVOTyNJ
-event_date.json
-https://www.amazon.de/clouddrive/share/i5Ck9mISpaY8JKcRNG7BRQDVKqvDRNXCipAzJDZctQE
-title_geo_country_continent.csv
-https://www.amazon.de/clouddrive/share/CajMzqgDnDzGhOfTUtjnFsr0PPhQy4x9TM3ucesUHo4
-eventList.json
-https://www.amazon.de/clouddrive/share/Lu5u88c2yY0yJTEIcO6z9d9t04jP6es5gN9uuiTPFCU
-PersonList.json
-https://www.amazon.de/clouddrive/share/g7mqVbbOoWhIARfGWOWQ8Vg0486Juitfrh7WgFMLhiM
-
+It takes a few minutes to load it.
