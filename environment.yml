@@ -6,6 +6,7 @@ dependencies:
   - folium
   - geopandas
   - ipywidgets
+  - matplotlib
   - pandas
   - numpy
   - appmode
