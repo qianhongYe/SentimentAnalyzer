@@ -3,11 +3,12 @@ channels:
   - conda-forge
 dependencies:
   - python
-  - folium
-  - geopandas
-  - ipywidgets
+  - numpy
   - matplotlib
   - pandas
+  - geopandas
+  - folium
+  - ipywidgets
   - appmode
   - pip:
     - quilt
