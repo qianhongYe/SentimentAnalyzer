@@ -4,10 +4,8 @@ channels:
 dependencies:
   - python
   - folium
-  - numpy
   - geopandas
   - ipywidgets
-  - matplotlib
   - pandas
   - appmode
   - pip:
