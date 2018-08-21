@@ -9,6 +9,5 @@ dependencies:
   - geopandas
   - folium
   - ipywidgets
-  - appmode
   - pip:
     - quilt
